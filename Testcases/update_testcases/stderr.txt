@@ -1,0 +1,4 @@
+Unable to parse date
+Unable to update, event does not exist
+Not enough arguments given
+Multiple errors occur
